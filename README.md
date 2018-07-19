@@ -1,10 +1,10 @@
 # ml-udemy
 
-## Create  a virtual environment:
+### Create  a virtual environment:
 virtualenv --python=python3.5 ml-env
 
-## Set venv:
+### Set venv:
 source ml-env/bin/activate
 
-## Instal dependencies:
+### Instal dependencies:
 pip install -r requirements.txt
